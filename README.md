@@ -25,5 +25,4 @@ Ever since I was young, I have been fascinated by technology, and that fascinati
 [![Michael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micpatmc&layout=compact)](https://github.com/micpatmc)
 
 ## 🤝 Connect with me:
-
 <a href="https://linkedin.com/in/michael-mcgarvey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
