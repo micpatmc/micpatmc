@@ -26,4 +26,4 @@ Ever since I was young, I have been fascinated by technology, and that fascinati
 
 ## 🤝 Connect with me:
 
-<a href="https://linkedin.com/in/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michael-mcgarvey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
