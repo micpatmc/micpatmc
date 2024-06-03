@@ -1,8 +1,15 @@
 ![1673994447349](https://github.com/micpatmc/micpatmc/assets/71113885/3404a5ac-a9ec-40d6-9c52-2d344508f131)
 
 <h3 align="left">Hey, I'm <a href="https://www.michaelmcgarvey.com/" target="_blank">Michael McGarvey</a> 👋</h1>
-<h2 align="left">I'm a 3rd-year university student who aspires to be a software engineer.</h3>
+<h2 align="left">I'm a senior university student who aspires to be a software engineer.</h3>
 
+📖 I'm a lifelong learner, and I've gained valuable industry experience through internships with Adobe, UKG, and Limbitess Solutions.
+
+💻 I have a strong interest in Application Development and Distributed Systems!
+
+🎓 My expected graduation date is Spring/Summer 2025! I'm looking for New Grad/Internship positions for my corresponding graduation date!
+
+### About me
 Ever since I was young, I have been fascinated by technology, and that fascination has grown with me. I'm passionate about software development and enjoy taking the time to learn and develop. I have completed multiple programming projects both personal and academic throughout the years which has only fueled my passion.
 
 - 👨‍💻 Learn more about me on [**my portfolio**](http://michaelmcgarvey.com)
