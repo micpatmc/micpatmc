@@ -7,7 +7,7 @@
 
 💻 I have a strong interest in Application Development and Distributed Systems!
 
-🎓 My expected graduation date is Spring/Summer 2025! I'm looking for New Grad/Internship positions for my corresponding graduation date!
+🎓 My expected graduation date is May 2025! I'm looking for New Grad/Internship positions for my corresponding graduation date!
 
 ### About me
 Ever since I was young, I have been fascinated by technology, and that fascination has grown with me. I'm passionate about software development and enjoy taking the time to learn and develop. I have completed multiple programming projects both personal and academic throughout the years which has only fueled my passion.
