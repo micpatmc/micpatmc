@@ -3,7 +3,7 @@
 <h3 align="left">Hey, I'm <a href="https://www.michaelmcgarvey.com/" target="_blank">Michael McGarvey</a> 👋</h1>
 <h2 align="left">I'm a software engineer with a passion for building solutions that deliver value.</h3>
 
-📖 I'm a lifelong learner, and I've gained valuable industry experience through internships with Adobe, UKG, and Limbitess Solutions.
+📖 I'm a lifelong learner, and I've gained valuable industry experience through experiences at Meta, Adobe, and UKG.
 
 💻 I have a strong interest in Application Development and Distributed Systems!
 
