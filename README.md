@@ -1,4 +1,4 @@
-![1673994447349](https://github.com/micpatmc/micpatmc/assets/71113885/3404a5ac-a9ec-40d6-9c52-2d344508f131)
+<img width="1400" height="350" alt="github-banner" src="https://github.com/user-attachments/assets/7a7029fa-f5d1-4cd8-a7c3-e30c9fd68f3a" />
 
 <h3 align="left">Hey, I'm <a href="https://www.michaelmcgarvey.com/" target="_blank">Michael McGarvey</a> 👋</h1>
 <h2 align="left">I'm a software engineer with a passion for building solutions that deliver value.</h3>
