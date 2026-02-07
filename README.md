@@ -3,12 +3,12 @@
 <h3 align="left">Hey, I'm <a href="https://www.michaelmcgarvey.com/" target="_blank">Michael McGarvey</a> 👋</h1>
 <h2 align="left">I'm a software engineer with a passion for building solutions that deliver value.</h3>
 
+### About me
 Hi! My name is Michael, and I'm a Software Engineer with experience at Meta, Adobe, and UKG. I'm passionate about building scalable applications and distributed systems, with a focus on creating tools that improve user experience and operational efficiency. 
 
 I graduated with a degree in Computer Science from the University of Central Florida.
 
-### About me
-Ever since I was young, I have been fascinated by technology, and that fascination has grown with me. I'm passionate about software development and enjoy taking the time to learn and develop. I have completed multiple programming projects both personal and academic throughout the years which has only fueled my passion.
+Ever since I was young, I have been fascinated by technology, and that fascination has grown with me. I'm passionate about software development and enjoy taking the time to learn and develop. I have completed multiple programming projects both personal and professional throughout the years which has only fueled my passion.
 
 - 👨‍💻 Learn more about me on [**my portfolio**](http://michaelmcgarvey.com)
 
